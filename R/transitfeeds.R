@@ -1,4 +1,3 @@
-
 # Purpose -----------------------------------------------------------------
 
 # Functions to use transitfeeds API to get a GTFS feed -
