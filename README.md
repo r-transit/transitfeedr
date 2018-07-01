@@ -2,7 +2,7 @@
 ## Description
 
 `transitfeedr` is an R package for easily searching and getting GTFS
-feeds on [Transitfeeds](https://transitfeeds.com/) format.
+feeds on [Transitfeeds](https://transitfeeds.com/).
 
 ## Installation
 
