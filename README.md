@@ -15,6 +15,11 @@ You can install this package from GitHub using the devtools package:
 
 ## Example Usage
 
+[![Travis-CI Build
+Status](https://travis-ci.com/r-gtfs/transitfeedr.svg?branch=master)](https://travis-ci.com/r-gtfs/transitfeedr)
+[![cran
+version](https://www.r-pkg.org/badges/version/transitfeedr)](https://cran.r-project.org/package=transitfeedr)
+
 ``` r
 library(dplyr)
 library(transitfeedr)
@@ -27,8 +32,10 @@ feedlist_df <- get_feedlist() %>%
   filter(grepl('NYC Subway GTFS', t, ignore.case= TRUE))
 ```
 
+Read the url with [trread](https://github.com/r-gtfs/trread)
+
 ``` r
-library(tread)
+library(trread)
 # import NYC gtfs feed by sending the url to `import_gtfs`
 NYC <- import_gtfs(feedlist_df$url_d)
 #> [1] "agency.txt"         "calendar_dates.txt" "calendar.txt"      

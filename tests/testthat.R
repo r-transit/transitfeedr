@@ -1,4 +1,4 @@
 library(testthat)
-library(gtfsr)
+library(transitfeedr)
 
-test_check("gtfsr")
+test_check("transitfeedr")
