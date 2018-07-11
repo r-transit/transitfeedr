@@ -1,4 +1,3 @@
-library(r511)
 context('Import metadata from transitfeeds')
 
 working <- function() {
