@@ -16,7 +16,7 @@ You can install this package from GitHub using the devtools package:
 ## Example Usage
 
 [![Travis-CI Build
-Status](https://travis-ci.com/r-gtfs/transitfeedr.svg?branch=master)](https://travis-ci.com/r-gtfs/transitfeedr)
+Status](https://travis-ci.com/r-transit/transitfeedr.svg?branch=master)](https://travis-ci.com/r-transit/transitfeedr)
 [![cran
 version](https://www.r-pkg.org/badges/version/transitfeedr)](https://cran.r-project.org/package=transitfeedr)
 
