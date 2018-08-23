@@ -1,3 +1,6 @@
+NOTE: deprecated, functionality moved to: https://github.com/r-transit/tidytransit
+
+You can still use this but its not under development for now. 
 
 ## Description
 
